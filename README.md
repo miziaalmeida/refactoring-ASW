@@ -1,7 +1,7 @@
-DISCIPLINA: ARQUITETURA DE SOFTWARE
-PROFA: Bianca Pedrosa
-ALUNA: Mízia Sousa Almeida Lima 
-CP3008118
+### DISCIPLINA: ARQUITETURA DE SOFTWARE
+ - PROFA: Bianca Pedrosa
+ - ALUNA: Mízia Sousa Almeida Lima 
+ - CP3008118
 
 # Exercícios de Refatoração
 
