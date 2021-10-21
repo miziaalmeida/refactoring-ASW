@@ -1,4 +1,10 @@
 
-# Haikus for Codespaces
+# Exercícios de Refatoração
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+Usando os princípios SOLID, as operações de refatoração e os padrões de projeto estudados. Refatore os códigos abaixo e apresente:
+- a) O **problema** com o código atual
+- b) O novo código gerado
+- c) Os **critérios** usados para refatorar que poodem ser: operações de refatoração,
+principios solid e padrões de software, usados para melhorar o código.
+
+
