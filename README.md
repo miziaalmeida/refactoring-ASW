@@ -18,7 +18,7 @@ Refatoração, SOLID - Responsabilidade Única;
 - a) O problema com o código atual
 Resposta: 
 - b) O novo código gerado
-Resposta [aqui]()
+Resposta [aqui](https://github.com/miziaalmeida/refactoring-ASW/tree/main/Quest%C3%A3o%202)
 - c) Os critérios usados para refatorar, tais como: operações de refatoração,
 principios solid e padrões de software, usados para melhorar o código
 Resposta: 
