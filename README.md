@@ -17,4 +17,3 @@ c) Os critérios usados para refatorar, tais como: operações de refatoração,
 principios solid e padrões de software, usados para melhorar o código
 - Resposta: Refactor das classes separando as responsabilidades.
 Encapsulamento de alguns métodos. 
-Factory.
